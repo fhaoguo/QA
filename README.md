@@ -1,6 +1,6 @@
 # Question Answer Projects
 
-本项目中的子项目大多具有以下特点：
+本项目主要特点：
 + 基于知识
 + 垂直领域
 + rasa框架
