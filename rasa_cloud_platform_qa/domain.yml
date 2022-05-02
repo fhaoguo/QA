@@ -1,0 +1,63 @@
+intents:
+  - greet
+  - goodbye
+  - query_attribute:
+      triggers: action_query_attribute
+      use_entities: []
+  - query_host_in:
+      triggers: action_query_host_in
+      use_entities: []
+  - query_configuration_by:
+      triggers: action_query_configuration_by
+      use_entities: []
+
+entities:
+  - entity
+  - s_entity
+  - o_entity
+  - ip
+  - attribute
+
+slots:
+  attribute:
+    type: text
+  s_entity:
+    type: text
+  o_entity:
+    type: text
+  ip:
+    type: text
+  entity:
+    type: text
+
+responses:
+  utter_greet:
+  - text: "Hey! I come from ShangHai, How are you?"
+  utter_rephrase:
+  - text: "Please rephrase your query!"
+  utter_query_error:
+  - text: "Your query is wrong"
+  utter_goodbye:
+  - text: "Bye"
+  utter_ask_ip:
+  - text: "please input the ip of your query"
+
+actions:
+  - utter_greet
+  - utter_rephrase
+  - utter_query_error
+  - utter_goodbye
+  - utter_ask_ip
+
+
+
+
+forms:
+  - action_query_attribute
+  - action_query_host_in
+  - action_query_configuration_by
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

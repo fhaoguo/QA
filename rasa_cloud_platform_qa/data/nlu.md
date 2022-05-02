@@ -1,0 +1,517 @@
+## intent: query_attribute
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.5](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.5](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.6](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.6](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.7](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.7](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.8](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.8](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.9](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.9](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.0](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.0](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.1](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.1](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.4.3.2](ip) ?
+- what is the [name](attribute) of the [cluster](entity) [1.4.3.2](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.5](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.5](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.6](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.6](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.7](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.7](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.8](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.8](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.9](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.9](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.0](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.0](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.1](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.1](ip) ?
+- what is the [business](attribute) ?
+- what is the [business](attribute) of the [1.4.3.2](ip) ?
+- what is the [business](attribute) of the [cluster](entity) [1.4.3.2](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.5](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.5](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.6](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.6](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.7](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.7](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.8](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.8](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.9](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.9](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.0](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.0](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.1](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.1](ip) ?
+- what is the [city](attribute) ?
+- what is the [city](attribute) of the [1.4.3.2](ip) ?
+- what is the [city](attribute) of the [cluster](entity) [1.4.3.2](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.5](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.5](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.6](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.6](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.7](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.7](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.8](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.8](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.9](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.9](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.0](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.0](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.1](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.1](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.4.3.2](ip) ?
+- what is the [datacenter_ip](attribute) of the [cluster](entity) [1.4.3.2](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.8](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.8](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.9](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.9](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.0](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.0](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.1](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.1](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.2](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.2](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.3](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.3](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.4](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.4](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.8.9.5](ip) ?
+- what is the [name](attribute) of the [datacenter](entity) [1.8.9.5](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.8](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.8](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.9](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.9](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.0](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.0](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.1](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.1](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.2](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.2](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.3](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.3](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.4](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.4](ip) ?
+- what is the [longitude](attribute) ?
+- what is the [longitude](attribute) of the [1.8.9.5](ip) ?
+- what is the [longitude](attribute) of the [datacenter](entity) [1.8.9.5](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.8](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.8](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.9](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.9](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.0](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.0](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.1](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.1](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.2](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.2](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.3](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.3](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.4](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.4](ip) ?
+- what is the [latitude](attribute) ?
+- what is the [latitude](attribute) of the [1.8.9.5](ip) ?
+- what is the [latitude](attribute) of the [datacenter](entity) [1.8.9.5](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.8](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.8](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.9](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.9](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.0](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.0](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.1](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.1](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.2](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.2](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.3](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.3](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.4](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.4](ip) ?
+- what is the [region](attribute) ?
+- what is the [region](attribute) of the [1.8.9.5](ip) ?
+- what is the [region](attribute) of the [datacenter](entity) [1.8.9.5](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.8](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.8](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.9](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.9](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.0](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.0](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.1](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.1](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.2](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.2](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.3](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.3](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.4](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.4](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.8.9.5](ip) ?
+- what is the [cpu](attribute) of the [datacenter](entity) [1.8.9.5](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.1.4](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.1.5](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.1.6](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.1.8](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.1.1](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.2.4](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.5.4](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [name](attribute) ?
+- what is the [name](attribute) of the [1.2.0.4](ip) ?
+- what is the [name](attribute) of the [server](entity) [1.2.0.4](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.1.4](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.1.5](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.1.6](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.1.8](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.1.1](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.2.4](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.5.4](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [cpu](attribute) ?
+- what is the [cpu](attribute) of the [1.2.0.4](ip) ?
+- what is the [cpu](attribute) of the [server](entity) [1.2.0.4](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.1.4](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.1.5](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.1.6](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.1.8](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.1.1](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.2.4](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.5.4](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [memory](attribute) ?
+- what is the [memory](attribute) of the [1.2.0.4](ip) ?
+- what is the [memory](attribute) of the [server](entity) [1.2.0.4](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.1.4](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.1.5](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.1.6](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.1.8](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.1.1](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.2.4](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.5.4](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [disk](attribute) ?
+- what is the [disk](attribute) of the [1.2.0.4](ip) ?
+- what is the [disk](attribute) of the [server](entity) [1.2.0.4](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.1.4](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.1.5](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.1.6](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.1.8](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.1.1](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.2.4](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.5.4](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [server_ip](attribute) ?
+- what is the [server_ip](attribute) of the [1.2.0.4](ip) ?
+- what is the [server_ip](attribute) of the [server](entity) [1.2.0.4](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.1.4](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.1.4](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.1.5](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.1.5](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.1.6](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.1.6](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.1.8](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.1.8](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.1.1](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.1.1](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.2.4](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.2.4](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.5.4](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.5.4](ip) ?
+- what is the [datacenter_ip](attribute) ?
+- what is the [datacenter_ip](attribute) of the [1.2.0.4](ip) ?
+- what is the [datacenter_ip](attribute) of the [server](entity) [1.2.0.4](ip) ?
+## intent: query_host_in
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.5](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.6](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.7](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.8](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.9](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.0](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.1](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [cluster](o_entity) ?
+- list all the [server](s_entity) host in [cluster](o_entity) [1.4.3.2](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.8](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.9](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.0](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.1](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.2](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.3](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.4](ip) ?
+- list all the [server](s_entity) host in ?
+- list all the [server](s_entity) host in [datacenter](o_entity) ?
+- list all the [server](s_entity) host in [datacenter](o_entity) [1.8.9.5](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.8](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.9](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.0](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.1](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.2](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.3](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.4](ip) ?
+- list all the [cluster](s_entity) host in ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) ?
+- list all the [cluster](s_entity) host in [datacenter](o_entity) [1.8.9.5](ip) ?
+## intent: query_configuration_by
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.5](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.6](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.7](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.8](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.9](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.0](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.1](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [cluster](o_entity) [1.4.3.2](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.1.4](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.1.5](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.1.6](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.1.8](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.1.1](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.2.4](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.5.4](ip) ?
+- list all the [datacenter](s_entity) configuration by ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) ?
+- list all the [datacenter](s_entity) configuration by [server](o_entity) [1.2.0.4](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.1.4](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.1.5](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.1.6](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.1.8](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.1.1](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.2.4](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.5.4](ip) ?
+- list all the [cluster](s_entity) configuration by ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) ?
+- list all the [cluster](s_entity) configuration by [server](o_entity) [1.2.0.4](ip) ?
+## lookup:entity
+  ../dat/rasa_cloud_platform_qa/lookup/entity.txt
+## lookup:attribute
+  ../dat/rasa_cloud_platform_qa/lookup/attribute.txt
+## lookup:s_entity
+  ../dat/rasa_cloud_platform_qa/lookup/s_entity.txt
+## lookup:o_entity
+  ../dat/rasa_cloud_platform_qa/lookup/o_entity.txt
+## lookup:ip
+  ../dat/rasa_cloud_platform_qa/lookup/ip.txt

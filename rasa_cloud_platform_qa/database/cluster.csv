@@ -1,0 +1,9 @@
+ip,name,business,region,datacenter_ip
+1.4.3.5,cluster1,football,beijing,1.8.9.8
+1.4.3.6,cluster2,basketball,shanghai,1.8.9.8
+1.4.3.7,cluster3,apple,guangzhou,1.8.9.4
+1.4.3.8,cluster4,water,shenzhen,1.8.9.4
+1.4.3.9,cluster5,vodka,hangzhou,1.8.9.4
+1.4.3.0,cluster6,cake,chengdu,1.8.9.8
+1.4.3.1,cluster7,beer,wuhan,1.8.9.9
+1.4.3.2,cluster8,whiskey,chongqing,1.8.9.9
